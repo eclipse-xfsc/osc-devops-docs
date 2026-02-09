@@ -1,0 +1,10 @@
+Name,Type,Description
+kata,x86,Alias of the default runtime handler (usually the same as kata-qemu)
+kata-clh,x86,Kata Containers (non-confidential) using Cloud Hypervisor
+kata-qemu,x86,Kata Containers (non-confidential) using QEMU
+kata-qemu-coco-dev,x86,CoCo without an enclave (for testing only)
+kata-qemu-sev,x86,CoCo with QEMU for AMD SEV HW
+kata-qemu-snp,x86,CoCo with QEMU for AMD SNP HW
+kata-qemu-tdx,x86,CoCo with QEMU for Intel TDX HW
+kata-qemu-se,s390x,CoCO with QEMU for Secure Execution
+enclave-cc,SGX,CoCo with enclave-cc (process-based isolation without Kata)
