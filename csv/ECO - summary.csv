@@ -1,0 +1,9 @@
+Name,Type,Documentation complexity (1-5),Installation complexity (1-3),Readiness for production use
+IBM Secure Execution s390x,Bare Metal CPU,5,3,Yes
+AMD SEV-SNP,Bare Metal CPU,5,3,Yes
+Intel SGX,Bare Metal CPU,5,3,Yes
+Intel TDX,Bare Metal CPU,4,2,Yes
+NVIDIA GPU Operator,Bare Metal GPU,4,3,Yes
+Azure AKS,Cloud,1,1,No
+Google Confidential GKE,Cloud,2,1,Yes
+AWS Confidential Computing,Cloud,2,1,Yes
