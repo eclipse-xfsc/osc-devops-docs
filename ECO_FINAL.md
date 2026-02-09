@@ -1,12 +1,4 @@
 # Overview of Gardener Kubernetes on T-Systems OSC and Confidential Computers.
-
-Author: Karol Bialas
-
-Reflaic UG
-
-Last update: 5.12.2025
-
-
 ## Introduction
 
 This document provides a practical guide to setting up Kubernetes clusters with Gardener on the Open Sovereign Cloud (OSC) by T-Systems, and evaluates how Confidential Containers (CoCo) can be introduced on top of such environments. It is intended for platform engineers, DevOps teams, and architects who need both a reproducible way to provision and access Gardener Shoot clusters, as well as a clear understanding of the requirements, design concepts, and runtime implications of Confidential Containers in a sovereign-cloud context.
